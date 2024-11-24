@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard"
+    },
+    {
+      "menuHeader": "Pelayanan"
+    },
+    {
+      "url": "#",
+      "name": "Jual Barang",
+      "icon": "menu-icon tf-icons bx bx-money",
+      "slug": "app-email"
+    },
+    {
+      "url": "#",
+      "name": "Beli Barang",
+      "icon": "menu-icon tf-icons bx bx-store-alt",
+      "slug": "app-chat"
+    }
+  ]
+}
